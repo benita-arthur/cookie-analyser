@@ -8,6 +8,8 @@ What the tool does
 
 Quick run (PowerShell)
 
+Prerequisite: The included JAR requires Java 17 or higher to run.
+
 The repository includes a built "fat" jar at `build/libs/cookie-analyser-1.0-SNAPSHOT.jar` and an example input file `cookielog.csv` in the project root. Run the jar with the -f (file) and -d (date) options. Example commands to check the sample dates from the table below:
 
 ```powershell
